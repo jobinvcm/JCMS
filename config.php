@@ -1,8 +1,8 @@
 <?php
 
 $database = array(
-  'username' =>'root';
-  'password' =>'';
+  'username' =>'jcms';
+  'password' =>'9dgvbfrWLnFotdtm';
   'name' => 'jcms';
 );
 
