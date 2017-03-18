@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <?php require('layout/header.php');?>
+
   <body>
     <nav class="navbar navbar-default">
   <div class="container-fluid">
@@ -24,6 +25,6 @@
   </div><!-- /.container-fluid -->
 </nav>
 
-    <?php require('includes/scripts.php'); ?>
+    <?php require('layout/footer.php'); ?>
   </body>
 </html>
